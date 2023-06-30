@@ -37,7 +37,7 @@
 	.contant_box_404{ margin-top:-50px;}
 		</style>
 	</head>
-<body bgcolor="yellow" >
+<body bgcolor="red" >
 <section class="page_404">
 	<div class="container">
 		<div class="row">	
