@@ -1,7 +1,7 @@
 <html>
 	<head>
 	</head>
-<body bgcolor="black" >
+<body bgcolor="grey" >
 <section class="page_404">
 	<div class="container">
 		<div class="row">	
