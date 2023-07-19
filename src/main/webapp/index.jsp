@@ -37,14 +37,14 @@
 	.contant_box_404{ margin-top:-50px;}
 		</style>
 	</head>
-<body bgcolor="black" >
+<body bgcolor="purple" >
 <section class="page_404">
 	<div class="container">
 		<div class="row">	
 		<div class="col-sm-12 ">
 		<div class="col-sm-10 col-sm-offset-1  text-center">
 		<div class="four_zero_four_bg">
-			<center><h1>404</h1></center>
+			<center><h1>HEHEHE 404 HEHEHE</h1></center>
 		
 		
 		</div>
